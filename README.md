@@ -124,7 +124,6 @@ This project is built using **Vite**. To run it locally:
 
 This widget connects to a **Convex** backend.
 
-  * **API URL:** `https://estive-bobcat-708.convex.cloud`
   * **Query Method:** `tours:getPublicTour`
   * **Analytics Method:** `analytics:trackEvent`
 
